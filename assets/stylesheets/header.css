@@ -40,23 +40,23 @@ header {
 }
 
 .info .envelope::before {
-    background-image: url('/assets/icons/envelope.svg');
+    background-image: url('/portoflio/assets/icons/envelope.svg');
 }
 
 .info .location::before {
-    background-image: url('/assets/icons/location.svg');
+    background-image: url('/portoflio/assets/icons/location.svg');
 }
 
 .info .person::before {
-    background-image: url('/assets/icons/person.svg');
+    background-image: url('/portoflio/assets/icons/person.svg');
 }
 
 .info .telephone::before {
-    background-image: url('/assets/icons/telephone.svg');
+    background-image: url('/portoflio/assets/icons/telephone.svg');
 }
 
 .info .linkedin::before {
-    background-image: url('/assets/icons/linkedin.svg');
+    background-image: url('/portoflio/assets/icons/linkedin.svg');
 }
 
 .button {
